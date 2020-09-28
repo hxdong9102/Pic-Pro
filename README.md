@@ -1,3 +1,5 @@
-Pic-Pro: Picture Processing
+## **Pic-Pro:**
+> **Picture Processing**
 
-    This repository is mainly about scrippts of processing pictures. 
+## **Description:**
+ - This repository is mainly about scrippts of processing pictures. 
